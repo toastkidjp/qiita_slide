@@ -21,11 +21,14 @@ Generate slide html to slide.html
 ## parameters
 You should pass two arguments.
 
-args[0]……Qiita Article's URL
-args[1]……Theme name
+args[0]窶ｦ窶ｦQiita Article's URL
+args[1]窶ｦ窶ｦTheme name
 
 You can use theme 
 [serif, moon, sky, simple, solarized, beige, white, night, blood, league, black]
 
 # LICENSE
 This application licensed Eclipse Public License version 1.0.
+
+# Special thanks
+This application powered by [reveal.js](https://github.com/hakimel/reveal.js/).
